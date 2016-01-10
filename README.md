@@ -37,6 +37,4 @@ This chat is intended for web developers and web developer managers only.  Its i
 
 ## Comitting changes to the rules.
 
-Use the [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow/) to commit to this rule set.  That means commit and submit PR's to the master branch.  Leave the Production branch alone.
-
-Anyone can submit PR's to adjust or clarify anything.
+Anyone can submit PR's to clarify or extend anything written in this README.
