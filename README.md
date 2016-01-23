@@ -2,7 +2,7 @@
 
 ### Scope
 
-This chat is intended for web developers and web developer managers only.  Its intended to be a resource where people can chat about the issues their having with the things that they're doing and seek assistance etc...
+This chat is intended for web developers and web developer managers only.  It's intended to be a resource where people can chat about the issues they're having and to seek assistance.
 
 ## Rules
 
